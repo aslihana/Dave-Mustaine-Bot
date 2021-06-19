@@ -1,7 +1,7 @@
 # Dave-Mustaine-Bot
 
 ## Introduction
-Very simple Discord Bot dedicated to Dave Mustaine. When you type something from "words_to_dave" list, he can reply you with him lyrics. <br /> <br /> 
+Very simple Discord Bot dedicated to Dave Mustaine. When you type something from "words_to_dave" list, he can reply you with his lyrics. <br /> <br /> 
 
 ## Examples Of Use
 
